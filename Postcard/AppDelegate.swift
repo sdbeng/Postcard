@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Postcard
 //
-//  Created by admin 33 on 2/17/15.
+//  Created by Serg on 2/17/15.
 //  Copyright (c) 2015 sdbwebsolutions. All rights reserved.
 //
 
